@@ -26,3 +26,4 @@ Map Navigation: Users can view nearby potential matches for their pets and recei
 Project Status:
 
 This project is still under development, and the information provided reflects the general progress thus far.
+The images used within the application are not representative of reality; they are used solely for illustrative purposes.
